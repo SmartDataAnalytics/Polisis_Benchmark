@@ -1,7 +1,7 @@
 # Polisis_Benchmark
 Reproducing state-of-the-art results
 
-This repo is our effort to reproduce Polisis results on privacy policy classification based on their paper: https://arxiv.org/abs/1802.02561 
+This repo is our effort to reproduce Polisis results for privacy policy classification based on their paper: https://arxiv.org/abs/1802.02561 
 
 # Setup instructions
 1. Setup a virtual environment using any tool (e.g., conda) and activate it: conda -n privacy_policy python=3.6 source activate privacy_policy
