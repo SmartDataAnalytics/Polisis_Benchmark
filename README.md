@@ -9,6 +9,7 @@ This repo is our effort to reproduce Polisis results on privacy policy classific
 
 # Usage instructions
 To run the experiment: python -u cnn_multi_label_classifier.py
+
 Parameters can be found in args.py
 
 Important Note: By default the code will use GloVe embeddings. Due to licesing the in-domain embeddings can be provided only upon request.
