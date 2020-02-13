@@ -1,0 +1,51 @@
+Train
+Num of segments: 2286
+Num of labels: 2639
+Percentages with respect to number of segments ... 
+0. First Party Collection/Use : 781 (34.16447944006999%)
+1. Third Party Sharing/Collection : 584 (25.546806649168854%)
+2. User Access, Edit and Deletion : 101 (4.418197725284339%)
+3. Data Retention : 50 (2.1872265966754156%)
+4. Data Security : 139 (6.080489938757656%)
+5. International and Specific Audiences : 204 (8.923884514435695%)
+6. Do Not Track : 22 (0.9623797025371829%)
+7. Policy Change : 73 (3.1933508311461067%)
+8. User Choice/Control : 233 (10.192475940507437%)
+9. Introductory/Generic : 240 (10.498687664041995%)
+10. Practice not covered : 83 (3.63079615048119%)
+11. Privacy contact information : 129 (5.6430446194225725%)
+---------------------------------------------------------------------------------------------------------
+Validation
+Num of segments: 571
+Num of labels: 648
+Percentages with respect to number of segments ... 
+0. First Party Collection/Use : 176 (30.823117338003502%)
+1. Third Party Sharing/Collection : 158 (27.6707530647986%)
+2. User Access, Edit and Deletion : 24 (4.203152364273205%)
+3. Data Retention : 14 (2.4518388791593697%)
+4. Data Security : 31 (5.42907180385289%)
+5. International and Specific Audiences : 41 (7.1803852889667255%)
+6. Do Not Track : 6 (1.0507880910683012%)
+7. Policy Change : 25 (4.378283712784588%)
+8. User Choice/Control : 48 (8.40630472854641%)
+9. Introductory/Generic : 72 (12.609457092819614%)
+10. Practice not covered : 21 (3.677758318739054%)
+11. Privacy contact information : 32 (5.604203152364273%)
+---------------------------------------------------------------------------------------------------------
+Test
+Num of segments: 714
+Num of labels: 833
+Percentages with respect to number of segments ... 
+0. First Party Collection/Use : 250 (35.0140056022409%)
+1. Third Party Sharing/Collection : 203 (28.431372549019606%)
+2. User Access, Edit and Deletion : 24 (3.361344537815126%)
+3. Data Retention : 14 (1.9607843137254901%)
+4. Data Security : 40 (5.602240896358543%)
+5. International and Specific Audiences : 56 (7.8431372549019605%)
+6. Do Not Track : 3 (0.42016806722689076%)
+7. Policy Change : 21 (2.9411764705882355%)
+8. User Choice/Control : 77 (10.784313725490197%)
+9. Introductory/Generic : 78 (10.92436974789916%)
+10. Practice not covered : 25 (3.5014005602240896%)
+11. Privacy contact information : 42 (5.882352941176471%)
+---------------------------------------------------------------------------------------------------------
